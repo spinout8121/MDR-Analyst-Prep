@@ -209,7 +209,7 @@
     - **Manual investigation:** Directly inspecting the affected system for signs of compromise, such as unusual processes or network connections.
     - **Consulting with stakeholders:** Engaging with system owners or users to verify if the activity was legitimate.
     
-    Mnemonic: **C**ontect **C**onnect **R**eal **L**ogic **M**ore **C**learly
+    Mnemonic: **C**ontext **C**onnect **R**eal **L**ogic **M**ore **C**learly
     
 2. What are the first steps you would take upon receiving an alert about a possible data breach?
     
